@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutomationTestingPracticePages.cs" />
+    <Compile Include="Browser.cs" />
     <Compile Include="Pages.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
