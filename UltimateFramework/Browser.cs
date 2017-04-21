@@ -27,7 +27,12 @@ namespace UltimateFramework
 
         public static void Initialize()
         {
+            Goto("");
+        }
 
+        public static void Close()
+        {
+            _webDriver.Close();
         }
     }
 }
